@@ -1,0 +1,14 @@
+baseURL = "http://www.makejarnotwar.com/"
+languageCode = "en-us"
+title = "Make Jar Not War"
+theme = "github-style"
+copyright = "© 2020"
+
+[params]
+  author = "Developer Advocates"
+  description = "Make Jar Not War"
+  github = "vmware"
+  utterances = "https://www.reactivespring.io"
+  avatar = "https://avatars1.githubusercontent.com/u/473334?s=280&amp;v=4"
+  url = "https://www.reactivespring.io"
+  userimg = "images/leaf.png"
